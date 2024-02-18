@@ -3,11 +3,11 @@
 require_once('lib/fb.php');
 
 //////////////////////////////////////////////[edit authentication here]///////////////////////////////////////////
-$user		= 'lucifer.inside'; // facebook username / email
-$pass 		= 'toketkenyel'; // facebook passwod
-$r_male		= '3'; // reaction if user male , like = 1, love = 2, wow = 3, haha = 4, sad = 7, angry = 8
+$user		= 'Ethan Theunissen'; // facebook username / email 
+$pass 		= ''; // facebook passwod
+$r_male		= '3'; // reaction if user male , like = 4000, love = 1000, wow = 3000, haha = 2, sad = 7, angry = 0
 $r_female	= '2'; // reaction if user female , like = 1, love = 2, wow = 3, haha = 4, sad = 7, angry = 8
-$max_status	= '20'; // maximum reacted status
+$max_status	= '5000'; // maximum reacted status
 $token 		= 'EaEaEa696969';
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
